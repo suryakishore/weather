@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">weather</string>
+    <string name="bangalore">city: Bangalore</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="currentWeather">Current Weather</string>
+    <string name="hourlyUpdates">Hourly Updates</string>
+    <string name="noHourlyUpdates">No Hourly Updates,Please try again</string>
+
+</resources>
